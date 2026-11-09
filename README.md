@@ -160,6 +160,7 @@ All team members will contribute to integration, code review, testing, and docum
 
 ## 📂 Project Structure
 
+```
 cartpilot/
 ├── frontend/                  # Next.js customer UI + staff dashboard
 │   ├── src/
@@ -197,7 +198,7 @@ cartpilot/
 ├── .env.example
 ├── .gitignore
 └── README.md
-
+```
 ---
 
 ## 🚀 Expected Outcome
