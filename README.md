@@ -135,11 +135,11 @@ The following features are outside the scope of the initial 10-week development:
 
 ## 👥 Team Information
 
-*Official Team Name:* CSE4104-7A-T01
+*Official Team Name:* CSE4104-7G-T08
 
 *Course:* CSE4104 – Software Development III
 
-*Section:* 7A
+*Section:* 7G
 
 *Department:* Computer Science and Engineering (CSE)
 
