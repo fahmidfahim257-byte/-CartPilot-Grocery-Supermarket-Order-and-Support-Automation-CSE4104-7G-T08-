@@ -160,15 +160,39 @@ All team members will contribute to integration, code review, testing, and docum
 
 ## 📂 Project Structure
 
-text
-CartPilot/
+cartpilot/
+├── frontend/                  # Next.js customer UI + staff dashboard
+│   ├── src/
+│   │   ├── app/               # pages: chat, catalogue, cart, orders, dashboard
+│   │   ├── components/
+│   │   ├── services/          # API calls
+│   │   └── types/
+│   └── package.json
 │
-├── frontend/
-├── backend/
-├── database/
-├── ai/
-├── docs/
-├── tests/
+├── backend/                   # Express REST API
+│   ├── src/
+│   │   ├── modules/           # auth, catalogue, inventory, cart, orders, support, analytics
+│   │   ├── middleware/        # auth, RBAC, validation, rate limit
+│   │   ├── ai-gateway/        # allowlisted AI tool calls
+│   │   ├── app.ts
+│   │   └── server.ts
+│   └── package.json
+│
+├── database/                  # PostgreSQL
+│   ├── migrations/
+│   └── seeds/
+│
+├── ai/                        # LLM adapter, RAG, tools
+│   ├── src/
+│   │   ├── adapters/          # ollama / hosted
+│   │   ├── rag/
+│   │   ├── tools/
+│   │   └── prompts/
+│   ├── knowledge-base/        # FAQs and policies
+│   └── evaluation/            # 100-query test sheet
+│
+├── docs/                      # proposal, SRS, ERD, API, user guide
+├── tests/                     # unit, api, e2e, ai-eval, security
 │
 ├── .env.example
 ├── .gitignore
