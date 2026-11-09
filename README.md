@@ -149,10 +149,10 @@ The following features are outside the scope of the initial 10-week development:
 
 | No. | Name | Student ID | Responsibility |
 |---|---|---|---|
-| 1 | [Team Leader Name] | [Student ID] | Team Leader / Backend Developer |
-| 2 | [Member 2 Name] | [Student ID] | Frontend Developer |
-| 3 | [Member 3 Name] | [Student ID] | AI Integration Lead |
-| 4 | [Member 4 Name] | [Student ID] | Database / Testing Lead |
+| 1 | Alauddin Shamim | 11230321585 | Team Leader / Backend |
+| 2 | Abdullah Adnan Rafi | 11230321481 | Frontend Development |
+| 3 | Fahmid Hasan Fahim | 11230321483 | AI Integration |
+| 4 | Moumita Samadder Mumu | 11230321411 | Database / Testing |
 
 All team members will contribute to integration, code review, testing, and documentation.
 
@@ -204,8 +204,10 @@ No open-source license has been selected yet. All rights are reserved by the pro
 
 *Course:* CSE4104 – Software Development III
 
-*Team:* CSE4104-7A-T01
+*Team:* CSE4104-7G-T0*
 
 *Institution:* Northern University of Business and Technology, Khulna
-Tulis
-Tulis menyang Md Summy
+Md Summy
+Fahmid Fahim
+Abdullah Adnan
+Moumita Samadder
