@@ -225,6 +225,24 @@ This project is developed for academic and educational purposes.
 
 No open-source license has been selected yet. All rights are reserved by the project authors until a license is added.
 
+## 📚 Project Documentation
+
+All project requirements and system design documents are available in the `docs/` directory.
+
+| Document | Description |
+|---|---|
+| SRS Document | Software Requirements Specification |
+| Use Case Diagram | Shows system actors and their interactions |
+| ER Diagram | Represents database entities and relationships |
+| Architecture Diagram | Illustrates the initial system architecture |
+
+### Documentation Files
+
+- [Software Requirements Specification (SRS)](docs/CSE4104-7G-T08_SRS.pdf)
+- [Use Case Diagram](docs/CSE4104-7G-T08_UseCaseDiagram.pdf)
+- [ER Diagram](docs/CSE4104-7G-T08_ERDiagram.pdf)
+- [System Architecture Diagram](docs/CSE4104-7G-T08_ArchitectureDiagram.pdf)
+
 ---
 
 
