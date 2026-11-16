@@ -11,7 +11,7 @@ All project documents are organized by development phase in the `docs/` director
 * [Team Details](Week%2002/CSE4104-7G-T08_TeamInfo.pdf)
 * [Project Proposal PDF](Week%2002/CSE4104-7G-T08-Proposal.pdf)
 
-## Current Week – Requirements & System Design
+## Week 03 – Software Requirement Specification (SRS) 
 
 * [SRS Document](Week%2003/CSE4104-7G-T08_SRS.pdf)
 * [Use Case Diagram](Week%2003/CSE4104-7G-T08_UseCaseDiagram.pdf)
