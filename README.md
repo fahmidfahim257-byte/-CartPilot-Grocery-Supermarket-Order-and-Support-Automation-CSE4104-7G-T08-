@@ -227,12 +227,4 @@ No open-source license has been selected yet. All rights are reserved by the pro
 
 ---
 
-*Course:* CSE4104 – Software Development III
 
-*Team:* CSE4104-7G-T0*
-
-*Institution:* Northern University of Business and Technology, Khulna
-Md Summy
-Fahmid Fahim
-Abdullah Adnan
-Moumita Samadder
