@@ -4,7 +4,6 @@ All project documents are organized by development phase in the `docs/` director
 
 ### Week 01 – Team Formation & Initial Project Idea Selection
 - [Week 01 Documentation](docs/Week-01/README.md)
-- [Team Formation & Initial Project Idea PDF](docs/Week-01/CSE4104-7G-T08_Week01_Team-Formation-and-Project-Idea.pdf)
 
 ### Week 02 – Project Proposal
 - [Week 02 Documentation](docs/Week-02/README.md)
