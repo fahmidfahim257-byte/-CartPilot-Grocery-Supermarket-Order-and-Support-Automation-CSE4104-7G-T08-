@@ -9,7 +9,7 @@ All project documents are organized by development phase in the `docs/` director
 ## Week 02 – Project Proposal
 
 * [Team Details](Week%2002/README.md)
-* [Project Proposal PDF](Week%2002/Week02_Proposal.pdf)
+* [Project Proposal PDF](Week%2002/CSE4104-7G-T08-Proposal.pdf)
 
 ## Current Week – Requirements & System Design
 
