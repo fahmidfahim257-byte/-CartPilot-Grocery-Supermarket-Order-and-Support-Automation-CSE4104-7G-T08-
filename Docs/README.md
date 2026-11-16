@@ -17,3 +17,4 @@ All project documents are organized by development phase in the `docs/` director
 * [Use Case Diagram](Week%2003/CSE4104-7G-T08_UseCaseDiagram.pdf)
 * [ER Diagram](Week%2003/CSE4104-7G-T08_ERDiagram.pdf)
 * [Architecture Diagram](Week%2003/CSE4104-7G-T08_ArchitectureDiagram.pdf)
+
